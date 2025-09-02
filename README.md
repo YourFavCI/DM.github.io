@@ -1,2 +1,2 @@
-# d427.github.io
-This is for Self Paced Cohorts
+# DM.github.io
+Please use the Cohort link on your course page.
